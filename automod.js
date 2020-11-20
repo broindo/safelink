@@ -1,4 +1,3 @@
-
     var hasilgetlinkarp = false;
     $.ajax({
         url: '//' + web_safelink + "/feeds/posts/summary/?alt=json-in-script&orderby=updated&max-results=9999",
